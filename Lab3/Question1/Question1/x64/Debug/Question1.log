@@ -1,0 +1,4 @@
+﻿  Question1.cpp
+C:\Users\kashm\OneDrive\DSA\LAB\Lab3\Question1\Question1\Header.h(59,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kashm\OneDrive\DSA\LAB\Lab3\Question1\Question1\Header.h(73,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Question1.vcxproj -> C:\Users\kashm\OneDrive\DSA\LAB\Lab3\Question1\x64\Debug\Question1.exe

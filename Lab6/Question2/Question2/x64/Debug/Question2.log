@@ -1,0 +1,5 @@
+﻿  Question2.cpp
+C:\Users\kashm\OneDrive\DSA\LAB\Lab6\Question2\Question2\Queueh.h(15,2): error C2953: 'Node': class template has already been defined
+C:\Users\kashm\OneDrive\DSA\LAB\Lab6\Question2\Question2\Queueh.h(6,7): message : see declaration of 'Node'
+C:\Users\kashm\OneDrive\DSA\LAB\Lab6\Question2\Question2\Queueh.h(72,2): error C2953: 'LinkedList': class template has already been defined
+C:\Users\kashm\OneDrive\DSA\LAB\Lab6\Question2\Question2\Queueh.h(18,7): message : see declaration of 'LinkedList'
